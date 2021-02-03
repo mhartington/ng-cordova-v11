@@ -1,5 +1,7 @@
 {
   "name": "tmp-ng",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
